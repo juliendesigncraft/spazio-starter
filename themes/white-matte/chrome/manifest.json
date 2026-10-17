@@ -1,0 +1,93 @@
+{
+  "manifest_version": 3,
+  "name": "White Matte (Spazio)",
+  "version": "1.0",
+  "description": "Very light matte grey Chrome theme with graphite text, twin of Dark Matte.",
+  "theme": {
+    "colors": {
+      "frame": [
+        228,
+        230,
+        235
+      ],
+      "frame_inactive": [
+        234,
+        236,
+        240
+      ],
+      "frame_incognito": [
+        214,
+        217,
+        223
+      ],
+      "toolbar": [
+        243,
+        244,
+        247
+      ],
+      "tab_text": [
+        30,
+        33,
+        41
+      ],
+      "tab_background_text": [
+        96,
+        102,
+        116
+      ],
+      "tab_background_text_inactive": [
+        128,
+        134,
+        146
+      ],
+      "bookmark_text": [
+        52,
+        57,
+        68
+      ],
+      "toolbar_text": [
+        40,
+        44,
+        54
+      ],
+      "toolbar_button_icon": [
+        84,
+        90,
+        105
+      ],
+      "omnibox_background": [
+        232,
+        234,
+        238
+      ],
+      "omnibox_text": [
+        30,
+        33,
+        41
+      ],
+      "ntp_background": [
+        238,
+        240,
+        243
+      ],
+      "ntp_text": [
+        30,
+        33,
+        41
+      ],
+      "ntp_link": [
+        59,
+        130,
+        208
+      ],
+      "button_background": [
+        225,
+        228,
+        233
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center"
+    }
+  }
+}

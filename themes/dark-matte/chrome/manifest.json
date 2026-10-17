@@ -1,0 +1,108 @@
+{
+  "manifest_version": 3,
+  "name": "Dark Matte (Spazio)",
+  "version": "1.0",
+  "description": "Matte blue-graphite Chrome theme with a light blue accent, matching Spazio's Dark Matte theme and the matte Mac wallpaper.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/ntp.jpg"
+    },
+    "colors": {
+      "frame": [
+        22,
+        24,
+        31
+      ],
+      "frame_inactive": [
+        27,
+        30,
+        38
+      ],
+      "frame_incognito": [
+        22,
+        24,
+        31
+      ],
+      "frame_incognito_inactive": [
+        27,
+        30,
+        38
+      ],
+      "toolbar": [
+        33,
+        36,
+        45
+      ],
+      "toolbar_text": [
+        227,
+        231,
+        239
+      ],
+      "toolbar_button_icon": [
+        164,
+        171,
+        186
+      ],
+      "tab_text": [
+        227,
+        231,
+        239
+      ],
+      "tab_background_text": [
+        138,
+        145,
+        164
+      ],
+      "tab_background_text_inactive": [
+        138,
+        145,
+        164
+      ],
+      "bookmark_text": [
+        164,
+        171,
+        186
+      ],
+      "ntp_background": [
+        29,
+        31,
+        40
+      ],
+      "ntp_text": [
+        227,
+        231,
+        239
+      ],
+      "ntp_link": [
+        143,
+        199,
+        255
+      ],
+      "ntp_header": [
+        33,
+        36,
+        45
+      ],
+      "button_background": [
+        40,
+        43,
+        53
+      ],
+      "omnibox_background": [
+        27,
+        30,
+        38
+      ],
+      "omnibox_text": [
+        227,
+        231,
+        239
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
